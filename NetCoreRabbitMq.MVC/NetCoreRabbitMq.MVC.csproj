@@ -28,7 +28,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\InternshipFirstProject.RabbitMQ\NetCoreRabbitMq.RabbitMQ.csproj" />
+    <ProjectReference Include="..\NetCoreRabbitMq.RabbitMQ\NetCoreRabbitMq.RabbitMQ.csproj" />
   </ItemGroup>
 
   <ItemGroup>
